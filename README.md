@@ -1,3 +1,8 @@
+
+
+<img src="https://raw.githubusercontent.com/mehediakash01/mehediakash01/main/gitBanner.png" alt="GitHub Banner" width="100%" />
+
+
 # 💫 About Me:
 I'm a passionate Full-Stack Web Developer from Bangladesh 🇧🇩  <br>I love building responsive and scalable web applications using:<br><br>- ⚛️ React, Tailwind CSS, DaisyUI  <br>- 🛠️ Node.js, Express, MongoDB, Firebase  <br>- 🌍 REST APIs, JWT, localStorage, and deployment with Vercel  <br><br>### 🔭 Currently Working On:<br>A parcel delivery website with an interactive Leaflet map and user authentication system.
 
