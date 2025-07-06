@@ -13,7 +13,7 @@ I thrive on turning ideas into efficient, real-world solutions.
 
 ### 🚀 Currently Working On
 
-- Developing a **parcel delivery website** with user and admin dashboards  
+- Developing a **parcel delivery website** with user ,rider and admin dashboards  
 - Integrating **payment gateway** and order tracking features  
 - Exploring **Next.js** and **React animation libraries** for better UX  
 
