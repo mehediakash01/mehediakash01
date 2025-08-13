@@ -40,7 +40,8 @@ I thrive on turning ideas into efficient, real-world solutions.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mehediakash01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="45%"/>
+<!--  <img height="200" width="45%" src="https://github-readme-stats.vercel.app/api?username=mehediakash01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /> -->
+
   <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=mehediakash01&theme=dark&hide_border=false" width="45%"/>
 </div>
 
