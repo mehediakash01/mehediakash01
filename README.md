@@ -13,9 +13,9 @@ I thrive on turning ideas into efficient, real-world solutions.
 
 ### 🚀 Currently Working On
 
-- Developing a **parcel delivery website** with user ,rider and admin dashboards  
-- Integrating **payment gateway** and order tracking features  
-- Exploring **Next.js** and **React animation libraries** for better UX  
+- Developing a **SleepSync-sleepTracker website** with personalized AI coach 
+- Integrating **AI ** and tracking daily sleep hour 
+- Exploring **TypeScript** and **React animation libraries** for better UX  
 
 
 
