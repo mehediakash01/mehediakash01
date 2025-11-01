@@ -33,6 +33,7 @@ I thrive on turning ideas into efficient, real-world solutions.
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehediakash01&label=Profile%20views&color=0e75b6&style=flat" alt="mehediakash01" /> </p>
 
 
 # 💻 Tech Stack:
