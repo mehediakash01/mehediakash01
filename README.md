@@ -14,8 +14,9 @@ I thrive on turning ideas into efficient, real-world solutions.
 ### 🚀 Currently Working On
 
 - Developing a **SleepSync-sleepTracker website** with personalized AI coach 
-- Integrating **AI** and tracking daily sleep hour 
-- Exploring **TypeScript** **PostgresSQL**,**prisma**,**NextJs**, **Docker** for better UX  
+- Integrating **AI** and tracking daily sleep hour
+- Integrating chat feature with **AI** coach and get personalized suggestions from AI
+- Exploring **TypeScript**, **PostgresSQL**,**prisma**,**NextJs**, **Docker**  
 
 
 
@@ -55,4 +56,4 @@ I thrive on turning ideas into efficient, real-world solutions.
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
