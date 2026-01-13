@@ -14,8 +14,8 @@ I thrive on turning ideas into efficient, real-world solutions.
 ### 🚀 Currently Working On
 
 - Developing a **SleepSync-sleepTracker website** with personalized AI coach 
-- Integrating **AI ** and tracking daily sleep hour 
-- Exploring **TypeScript** and **React animation libraries** for better UX  
+- Integrating **AI** and tracking daily sleep hour 
+- Exploring **TypeScript** **PostgresSQL**,**prisma**,**NextJs**, **Docker** for better UX  
 
 
 
