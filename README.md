@@ -42,17 +42,21 @@ I thrive on turning ideas into efficient, real-world solutions.
 ## 📊 GitHub Stats
 
 <div align="center">
-<!--  <img height="200" width="45%" src="https://github-readme-stats.vercel.app/api?username=mehediakash01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /> -->
 
-  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=mehediakash01&theme=dark&hide_border=false" width="45%"/>
+  <!-- Main GitHub Stats Card (using a more stable community fork) -->
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=mehediakash01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+
+  <!-- Contribution Streak Card (still quite reliable) -->
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mehediakash01&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediakash01&theme=dark&hide_border=false&layout=compact" width="50%"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mehediakash01&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
-
 
 
 
