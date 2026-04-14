@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/mehediakash01/mehediakash01/main/githubBanner.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">👋 Hi, I'm Mehedi Hasan Akash</h1>
-<h3 align="center">💻 Full-Stack MERN Developer | React Enthusiast</h3>
+<h1 align="center"> Hi, I'm Mehedi Hasan Akash</h1>
+<h3 align="center"> Full-Stack Developer </h3>
 
 
 ## 🧠 About Me
 
-I’m a dedicated Full-Stack MERN Developer with a strong focus on building clean, responsive, and scalable web applications. Passionate about React and modern JavaScript, 
+I’m a dedicated Full-Stack  Developer with a strong focus on building clean, responsive, and scalable web applications. Passionate about React and modern JavaScript, 
 I thrive on turning ideas into efficient, real-world solutions.
 
 ### 🚀 Currently Working On
@@ -16,7 +16,7 @@ I thrive on turning ideas into efficient, real-world solutions.
 - Developing a **SleepSync-sleepTracker website** with personalized AI coach 
 - Integrating **AI** and tracking daily sleep hour
 - Integrating chat feature with **AI** coach and get personalized suggestions from AI
-- Exploring **TypeScript**, **PostgresSQL**,**prisma**,**NextJs**, **Docker**  
+- Exploring- **Go** , **TypeScript**, **PostgresSQL**,**prisma**,**NextJs**, **Docker**  
 
 
 
