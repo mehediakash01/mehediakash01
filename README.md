@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/mehediakash01/mehediakash01/main/githubBanner.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/mehediakash01/mehediakash01/main/updatedGitBanner.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center"> Hi, I'm Mehedi Hasan Akash</h1>
 <h3 align="center"> Full-Stack Developer </h3>
