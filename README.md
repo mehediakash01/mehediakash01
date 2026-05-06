@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/mehediakash01/mehediakash01/main/updatedGitBanner.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/mehediakash01/mehediakash01/main/GH.png" alt="GitHub Banner" width="100%" />
 
 
 
