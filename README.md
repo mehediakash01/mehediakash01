@@ -102,6 +102,36 @@ I’m a dedicated Full-Stack Developer with a strong focus on building clean, re
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+## 🏆 Achievements & Certifications
+
+### 🥇 Hackathons & Projects
+- 🧠 **HackFusion 2026 – Inter-University Hackathon**  
+  Participated and built **“Digital Delta”**, an offline-first emergency solution for flood-affected areas  
+  → Enabled communication via **Bluetooth / local server without internet**  
+  → Focused on reliability in disaster scenarios where connectivity is unavailable  
+[View Certificate](https://drive.google.com/file/d/1RcYHyiCp1deIhePdQ9iqbjmHAw53El00/view?usp=sharing)
+---
+
+### 🎓 Bootcamp & Recognition
+- 🏆 **Black Belt Web Developer** — Programming Hero (Batch 11)  
+  Awarded for outstanding performance and consistent project delivery during the Complete Web Development program  
+[View Certificate](https://drive.google.com/file/d/12J87Q6nj-XaA2s_gf3p2MFKFeAqnKDks/view?usp=sharing)
+---
+
+### 📜 Certifications
+- ✅ **Complete Web Development Course (With Excellence)** — Programming Hero  
+  Covered JavaScript, React, HTML, CSS and built multiple full-stack applications  
+[View Certificate](https://drive.google.com/file/d/1cybPnMX0hxNzkDIB2ysY91_e_VVxC3uK/view?usp=sharing)
+---
+
+### 🏅 Highlights
+- 🚀 Built multiple real-world platforms including:
+  - **SkillBridge** — Tutor-student booking platform  
+  - **SleepSync** — AI-powered productivity & organization system  
+  - **Nirapod Konth** — Safety reporting platform  
+
+- 💡 Strong focus on **real-world problem solving**, scalability, and user-centered design
 ## 📊 GitHub Stats
 
 <div align="center">
