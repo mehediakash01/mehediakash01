@@ -130,7 +130,7 @@ I’m a dedicated Full-Stack Developer with a strong focus on building clean, re
   - **SkillBridge** — Tutor-student booking platform  
   - **SleepSync** — AI-powered productivity & organization system  
   - **Nirapod Konth** — Safety reporting platform  
-
+ - **Knowledge Trader** — AI powered knowledge Sharing platform 
 - 💡 Strong focus on **real-world problem solving**, scalability, and user-centered design
 ## 📊 GitHub Stats
 
