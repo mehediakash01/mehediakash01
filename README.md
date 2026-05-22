@@ -121,7 +121,7 @@ I’m a dedicated Full-Stack Developer with a strong focus on building clean, re
 
 ### 📜 Certifications
 - ✅ **Complete Web Development Course (With Excellence)** — Programming Hero  
-  Covered JavaScript, React, HTML, CSS and built multiple full-stack applications  
+  Covered JavaScript, React, HTML, CSS and built multiple MERN based full-stack applications  
 [View Certificate](https://drive.google.com/file/d/1cybPnMX0hxNzkDIB2ysY91_e_VVxC3uK/view?usp=sharing)
 ---
 
