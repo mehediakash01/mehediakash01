@@ -14,7 +14,7 @@ I’m a dedicated Full-Stack Developer with a strong focus on building clean, re
 -  Building a **knowledge Trader** App with "Knowledge Bazar" where users trade expertise via tokens or skill-swapping.
 - Integrating **AI** Matching mutual interests among users for personalized connections.
 - Integrating live trade functionality with Socket.io and token-earning systems.
-- Exploring- **DevOps**, **Automation**, and **Cybersecurity**.
+- Exploring- **DevOps**, **Automation**, and will learn **Cybersecurity**.
 
 
 
